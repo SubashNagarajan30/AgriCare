@@ -1,4 +1,4 @@
-# Agri-Aegis Disease Sentinel - Design Document
+# AgriCare Disease Sentinel - Design Document
 
 ## 1. System Architecture
 
@@ -629,3 +629,4 @@ Smoke Tests
 - Web dashboard for farmers
 - Admin portal for suppliers
 - Analytics dashboard
+
