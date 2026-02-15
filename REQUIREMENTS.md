@@ -1,8 +1,8 @@
-# Agri-Aegis Disease Sentinel - Requirements Document
+# AgriCare Disease Sentinel - Requirements Document
 
 ## 1. Executive Summary
 
-Agri-Aegis is a WhatsApp-based AI system designed to help small-scale farmers identify crop diseases early and access treatment solutions through their local supply chain.
+AgriCare is a WhatsApp-based AI system designed to help small-scale farmers identify crop diseases early and access treatment solutions through their local supply chain.
 
 ## 2. Problem Statement
 
@@ -247,3 +247,4 @@ A WhatsApp-based intelligent agent that:
 - **IoT Core**: AWS service for IoT device management
 - **Confidence Score**: ML model's certainty in prediction (0-100%)
 - **Treatment Plan**: Recommended actions to address disease
+
